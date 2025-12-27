@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Lab4_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Lab4_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="6641fs"></ZoomEndTime>
+      <Cursor1Time time="0fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="250"></NameColumnWidth>
+      <ValueColumnWidth column_width="138"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/Lab4_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/uut/control/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/sw_sim" type="array">
+      <obj_property name="ElementShortName">sw_sim[2:0]</obj_property>
+      <obj_property name="ObjectShortName">sw_sim[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/cw" type="array">
+      <obj_property name="ElementShortName">cw[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cw[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/ready" type="logic">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/slide" type="array">
+      <obj_property name="ElementShortName">slide[7:0]</obj_property>
+      <obj_property name="ObjectShortName">slide[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/btn" type="array">
+      <obj_property name="ElementShortName">btn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">btn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/uut/datapath/amplitude" type="array">
+      <obj_property name="ElementShortName">amplitude[15:0]</obj_property>
+      <obj_property name="ObjectShortName">amplitude[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/uut/datapath/phase_inc" type="array">
+      <obj_property name="ElementShortName">phase_inc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">phase_inc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/uut/datapath/DO1" type="array">
+      <obj_property name="ElementShortName">DO1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">DO1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/uut/datapath/Signal1_signed" type="array">
+      <obj_property name="ElementShortName">Signal1_signed[15:0]</obj_property>
+      <obj_property name="ObjectShortName">Signal1_signed[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Lab4_tb/uut/datapath/Signal1_extend" type="array">
+      <obj_property name="ElementShortName">Signal1_extend[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Signal1_extend[17:0]</obj_property>
+   </wvobject>
+</wave_config>
