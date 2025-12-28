@@ -14,7 +14,7 @@ FPGA based Oscilloscope and Function Generator using VHDL and C. Project for Adv
 - Listened to commands to control the function generatior and the oscilloscope via the boards UART 
 
 ### Hardware schematic
-![Hardware Schematic](Images/newGC1.PNG)
+![Hardware Schematic](Images/newGC1.png)
 
 
 ### Videos
