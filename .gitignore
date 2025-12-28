@@ -33,7 +33,7 @@
 *.data
 *.ipdefs
 .Xil
-*.sdk
+
 *.hw
 *.ip_user_files
 
