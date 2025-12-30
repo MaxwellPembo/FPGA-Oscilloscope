@@ -32,13 +32,11 @@ https://youtube.com/shorts/6k0h5HHZdU4
 
 ## Code Locations:
 
-#### Function Generator
-Lab_3.sdk/Lab_3/src/Lab_3.c
+#### [Function Generator] (Lab_3.sdk/Lab_3/src/Lab_3.c)
+
 
 ### Hardware Components
 
-#### Control unit and Datapath
-Lab_4.srcs/sources_1/new
+#### [Control unit and Datapath](Lab_4.srcs/sources_1/new)
 
-#### Components 
-ip_repo/my_oscope_ip_1.0/src
+#### [Components] (ip_repo/my_oscope_ip_1.0/src) 
